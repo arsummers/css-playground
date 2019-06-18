@@ -1,4 +1,4 @@
-body{
+#floats{
   background-color: #cbd9ef;
 }
 
@@ -7,4 +7,12 @@ article{
   border: 1px black solid;
   height: 100px;
   width: 100px;
+}
+
+#flexbox{
+  background-color: #207228;
+}
+
+#grid{
+  background-color: #c38fd8;
 }
