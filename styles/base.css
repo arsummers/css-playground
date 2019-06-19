@@ -8,6 +8,12 @@ article{
   height: 100px;
   width: 100px;
 }
+div{
+  box-sizing: border-box;
+  border: 1px blue dotted;
+  height: 100px;
+  width: 100px;
+}
 
 #flexbox{
   background-color: #207228;
