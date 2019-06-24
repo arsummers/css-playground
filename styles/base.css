@@ -17,8 +17,8 @@ div{
 
 nav{
   border: 1px black solid;
-  height: 25%;
-  width: 50%;
+  height: 100px
+  width: 500px;
 }
 
 #flexbox{
@@ -27,4 +27,8 @@ nav{
 
 #grid{
   background-color: #c38fd8;
+}
+
+#floats nav{
+  background-color: red;
 }
